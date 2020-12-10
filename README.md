@@ -17,8 +17,6 @@ If you have an idea💡, and would like to collaborate, you can reach me here!
 <a href="https://www.linkedin.com/in/arpitkaushal/"><img align="center" alt="LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>&nbsp;
 <a href="https://www.instagram.com/kaushal.arpit/"><img align="center" alt="Instagram" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a>
 </p>
-<br />
-
 
 ### Languages and Tools:
 <p align="left"> 
@@ -42,11 +40,6 @@ If you have an idea💡, and would like to collaborate, you can reach me here!
 </p>
 
 <br />
-<br />
-
-[website]: https://arpitkaushal.codes/
-[linkedin]: https://www.linkedin.com/in/arpitkaushal/
-[instagram]: https://www.instagram.com/kaushal.arpit/
 
 
 <!-- APIs that show real time stastics  -->
@@ -54,24 +47,30 @@ If you have an idea💡, and would like to collaborate, you can reach me here!
 <details>
 <summary>Some numbers about my profile!</summary>
 
+<br>
+<p align="center"> 
 <!-- Profile Views -->
-<p align="left"> 
 <img src="https://komarev.com/ghpvc/?username=arpitkaushal&label=Profile%20views&color=0e75b6&style=flat" alt="arpitkaushal" /> 
+<!-- Visits on the readme repo -->
 <img src="http://hits.dwyl.com/arpitkaushal/arpitkaushal.svg">
+</p>
 
-
+<p align="center">
 <!--  Languages used -->
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arpitkaushal&show_icons=true&locale=en&layout=compact" alt="arpitkaushal" />
-
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=arpitkaushal&show_icons=true&locale=en&layout=compact" alt="arpitkaushal" />
 <!-- ReadMe Stats -->
-&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arpitkaushal&show_icons=true&locale=en" alt="arpitkaushal" /></p>
-
-</details>
-
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=arpitkaushal&show_icons=true&locale=en" alt="arpitkaushal" />
+</p>
 
 <!-- Badges -->
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arpitkaushal" alt="arpitkaushal" /></a> </p> -->
 <!-- Streak and stats  -->
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arpitkaushal&" alt="arpitkaushal" /></p> -->
 
+
+</details>
 <!-- API Statistics' Section Ends -->
+
+[website]: https://arpitkaushal.codes/
+[linkedin]: https://www.linkedin.com/in/arpitkaushal/
+[instagram]: https://www.instagram.com/kaushal.arpit/
