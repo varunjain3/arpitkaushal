@@ -1,10 +1,12 @@
-## Hi there! This is Abhinav
+## Hello, I am Arpit! 
 
 - 🔭 EE Student (Pre-Final Year) @IIT Gandhinagar 
-- 🌱 I’m currently building Web Apps that address a need.
+- 🌱 I’m currently building Web Apps that address some need.
 - ⚡ Fun fact: I blog about my life, and suggest people good music to listen to.
 
 ### Connect with me:
+
+If you have an idea💡, and would like to collaborate, you can reach me here! 
 
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
