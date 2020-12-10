@@ -3,7 +3,7 @@ I’m currently building Web Apps that address some need.
 When I'm not working on my projects, I tinker with my existing workflows and automate them. 
 
 
-- 🔭 EE Student (Pre-Final Year) @IIT Gandhinagar 
+- 🔭 EE Student (Pre-Final Year) @IIT Gandhinagar. 
 - 🌱 I'm learning to build apps that can scale using Dev-ops, cloud computing. 
 - ⚡ Fun fact: I blog about my life, and suggest people good music to listen to.
 
@@ -32,7 +32,6 @@ If you have an idea💡, and would like to collaborate, you can reach me here!
 <a href="https://nodejs.org" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
 <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
 <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a>
-<a href="https://github.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a>
 </p>
 
 <br />
@@ -45,11 +44,23 @@ If you have an idea💡, and would like to collaborate, you can reach me here!
 
 <!-- APIs that show real time stastics  -->
 
+<details>
+<summary>Some numbers about my profile!</summary>
+<!-- Profile Views -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arpitkaushal&label=Profile%20views&color=0e75b6&style=flat" alt="arpitkaushal" /> </p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arpitkaushal" alt="arpitkaushal" /></a> </p>
+
+<!-- Badges -->
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arpitkaushal" alt="arpitkaushal" /></a> </p> -->
+
+<!--  Languages used -->
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arpitkaushal&show_icons=true&locale=en&layout=compact" alt="arpitkaushal" /></p>
+
+<!-- ReadMe Stats -->
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arpitkaushal&show_icons=true&locale=en" alt="arpitkaushal" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arpitkaushal&" alt="arpitkaushal" /></p>
+
+<!-- Streak and stats  -->
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arpitkaushal&" alt="arpitkaushal" /></p> -->
+</details>
 
 
 
