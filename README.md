@@ -46,11 +46,12 @@ If you have an idea💡, and would like to collaborate, you can reach me here!
 
 <details>
 <summary>Some numbers about my profile!</summary>
-<!-- Profile Views -->
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=arpitkaushal&label=Profile%20views&color=0e75b6&style=flat" alt="arpitkaushal" /> </p>
 
-<!-- Badges -->
-<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arpitkaushal" alt="arpitkaushal" /></a> </p> -->
+<!-- Profile Views -->
+<p align="left"> 
+<img src="https://komarev.com/ghpvc/?username=arpitkaushal&label=Profile%20views&color=0e75b6&style=flat" alt="arpitkaushal" /> 
+<img src="http://hits.dwyl.com/arpitkaushal/arpitkaushal.svg">
+
 
 <!--  Languages used -->
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arpitkaushal&show_icons=true&locale=en&layout=compact" alt="arpitkaushal" /></p>
@@ -58,20 +59,12 @@ If you have an idea💡, and would like to collaborate, you can reach me here!
 <!-- ReadMe Stats -->
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arpitkaushal&show_icons=true&locale=en" alt="arpitkaushal" /></p>
 
-<!-- Streak and stats  -->
-<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arpitkaushal&" alt="arpitkaushal" /></p> -->
 </details>
 
 
+<!-- Badges -->
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arpitkaushal" alt="arpitkaushal" /></a> </p> -->
+<!-- Streak and stats  -->
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arpitkaushal&" alt="arpitkaushal" /></p> -->
 
-<!-- Languages and tools -->
-<!-- 
-<img align="left" alt="C++" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />
-<img align="left" alt="C" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" />
-<img align="left" alt="Python"width="26px"src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-  -->
+<!-- API Statistics' Section Ends -->
