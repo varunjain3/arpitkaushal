@@ -1,9 +1,10 @@
-## Hello, I am Arpit! 
+## Hello! I am Arpit :))
+
 I’m currently building Web Apps that address some need. 
 When I'm not working on my projects, I tinker with my existing workflows and automate them. 
 
 
-- 🔭 EE Student (Pre-Final Year) @IIT Gandhinagar. 
+- 📖 EE Student (Pre-Final Year) @IIT Gandhinagar. 
 - 🌱 I'm learning to build apps that can scale using Dev-ops, cloud computing. 
 - ⚡ Fun fact: I blog about my life, and suggest people good music to listen to.
 
@@ -11,10 +12,11 @@ When I'm not working on my projects, I tinker with my existing workflows and aut
 
 If you have an idea💡, and would like to collaborate, you can reach me here! 
 
-[<img align="center" alt="Website" width="30px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="center" alt="LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="center" alt="Instagram" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
+<p align="center">
+<a href="https://arpitkaushal.codes/"><img align="center" alt="Website" width="30px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" /></a>
+<a href="https://www.linkedin.com/in/arpitkaushal/"><img align="center" alt="LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
+<a href="https://www.instagram.com/kaushal.arpit/"><img align="center" alt="Instagram" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a>
+</p>
 <br />
 
 
@@ -43,8 +45,8 @@ If you have an idea💡, and would like to collaborate, you can reach me here!
 <br />
 
 [website]: https://arpitkaushal.codes/
-[instagram]: https://www.instagram.com/kaushal.arpit/
 [linkedin]: https://www.linkedin.com/in/arpitkaushal/
+[instagram]: https://www.instagram.com/kaushal.arpit/
 
 
 <!-- APIs that show real time stastics  -->
