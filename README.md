@@ -13,8 +13,8 @@ When I'm not working on my projects, I tinker with my existing workflows and aut
 If you have an idea💡, and would like to collaborate, you can reach me here! 
 
 <p align="center">
-<a href="https://arpitkaushal.codes/"><img align="center" alt="Website" width="30px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" /></a>
-<a href="https://www.linkedin.com/in/arpitkaushal/"><img align="center" alt="LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
+<a href="https://arpitkaushal.codes/"><img align="center" alt="Website" width="30px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" /></a>&nbsp;
+<a href="https://www.linkedin.com/in/arpitkaushal/"><img align="center" alt="LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>&nbsp;
 <a href="https://www.instagram.com/kaushal.arpit/"><img align="center" alt="Instagram" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a>
 </p>
 <br />
@@ -61,10 +61,10 @@ If you have an idea💡, and would like to collaborate, you can reach me here!
 
 
 <!--  Languages used -->
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arpitkaushal&show_icons=true&locale=en&layout=compact" alt="arpitkaushal" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arpitkaushal&show_icons=true&locale=en&layout=compact" alt="arpitkaushal" />
 
 <!-- ReadMe Stats -->
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arpitkaushal&show_icons=true&locale=en" alt="arpitkaushal" /></p>
+&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arpitkaushal&show_icons=true&locale=en" alt="arpitkaushal" /></p>
 
 </details>
 
