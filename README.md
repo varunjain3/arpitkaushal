@@ -56,7 +56,7 @@ If you have an idea💡, and would like to collaborate, you can **reach me here!
 <!-- ReadMe Stats -->
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=arpitkaushal&show_icons=true&locale=en&theme=nord" alt="arpitkaushal" height="180" />
 <!--  Languages used -->
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=arpitkaushal&show_icons=true&locale=en&layout=compact" alt="arpitkaushal" height="180" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=arpitkaushal&show_icons=true&locale=en&layout=compact&theme=nord" alt="arpitkaushal" height="180" />
 </p>
 
 <!--This doesn't seem uch useful -->
