@@ -58,10 +58,10 @@ If you have an idea💡, and would like to collaborate, you can **reach me here!
 </p>
 
 <p align="center">
-<!--  Languages used -->
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=arpitkaushal&show_icons=true&locale=en&layout=compact" alt="arpitkaushal" />
 <!-- ReadMe Stats -->
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=arpitkaushal&show_icons=true&locale=en&theme=nord" alt="arpitkaushal" />
+<!--  Languages used -->
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=arpitkaushal&show_icons=true&locale=en&layout=compact" alt="arpitkaushal" />
 </p>
 
 <!-- Badges -->
