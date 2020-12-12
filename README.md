@@ -50,19 +50,21 @@ If you have an idea💡, and would like to collaborate, you can **reach me here!
 
 <details>
 <summary>My GitHub Stats</summary>
-
 <br>
-<p align="center"> 
-<!-- Visits on the readme repo -->
-<img src="http://hits.dwyl.com/arpitkaushal/arpitkaushal.svg">
-</p>
 
 <p align="center">
 <!-- ReadMe Stats -->
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=arpitkaushal&show_icons=true&locale=en&theme=nord" alt="arpitkaushal" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=arpitkaushal&show_icons=true&locale=en&theme=nord" alt="arpitkaushal" height="180" />
 <!--  Languages used -->
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=arpitkaushal&show_icons=true&locale=en&layout=compact" alt="arpitkaushal" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=arpitkaushal&show_icons=true&locale=en&layout=compact" alt="arpitkaushal" height="180" />
 </p>
+
+<!--This doesn't seem uch useful -->
+<!-- Hits on readme.md  --> 
+<!-- <p align="center">  -->
+<!-- Visits on the readme repo -->
+  <!-- <img src="http://hits.dwyl.com/arpitkaushal/arpitkaushal.svg"> -->
+<!-- </p>  -->
 
 <!-- Badges -->
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arpitkaushal" alt="arpitkaushal" /></a> </p> -->
